@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Youssefnabil88.github.io/food-link",
+  "homepage": "https://adham51.github.io/FoodLinkFinal.github.io",
   "name": "food-link",
   "version": "0.1.0",
   "private": true,
@@ -8,6 +8,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.7.7",
+    "balanced-match": "^3.0.1",
     "bootstrap": "^5.3.3",
     "http-proxy-middleware": "^3.0.3",
     "jwt-decode": "^4.0.0",
